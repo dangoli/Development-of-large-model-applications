@@ -1,1 +1,2 @@
-# Development-of-large-model-applications
+# 大模型应用开发
+大模型应用开发相关示例存放
